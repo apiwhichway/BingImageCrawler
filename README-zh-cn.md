@@ -28,7 +28,7 @@
 
 在命令行中执行脚本，添加搜索关键字作为参数：
 ```bash
-python image_crawler.py "Birds"
+python crawler_argparse.py "Birds"
 ```
 将 `"Birds"` 替换为你选择的搜索关键词。
 
