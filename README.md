@@ -28,7 +28,7 @@ Ensure that you have the Chrome WebDriver installed and properly set up in your 
 
 Execute the script from the command line with the search keyword as an argument:
 ```bash
-python image_crawler.py "Birds"
+python crawler_argparse.py "Birds"
 ```
 Replace `"Birds"` with the search keyword of your choice.
 
