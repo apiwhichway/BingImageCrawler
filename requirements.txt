@@ -1,0 +1,6 @@
+selenium
+pillow
+pandas
+tqdm
+user_agent
+webdriver-manager
